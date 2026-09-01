@@ -1,0 +1,12 @@
+{
+  "name": "Kabadiwala Connect",
+  "description": "Vernacular, low-literacy, offline-tolerant e-waste price discovery, material classification, direct authorized recycler matching, and traceable chain-of-custody platform for informal collectors.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
