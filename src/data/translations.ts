@@ -317,3 +317,5 @@ export const TRANSLATIONS = {
 export function getTranslation(lang: Language) {
   return TRANSLATIONS[lang] || TRANSLATIONS.en;
 }
+
+export const translations = TRANSLATIONS;
