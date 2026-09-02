@@ -2,7 +2,7 @@
 import React from 'react';
 import { ShieldCheck, Globe, Leaf, Cpu } from 'lucide-react';
 import { Language } from '../types';
-import { translations } from '../data/translations';
+import { TRANSLATIONS } from '../data/translations';
 
 interface HeaderProps {
   currentTab: 'collector' | 'admin' | 'recycler' | 'economics';
