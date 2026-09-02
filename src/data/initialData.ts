@@ -444,3 +444,5 @@ export const INITIAL_COLLECTOR_PROFILE: CollectorProfile = {
     neodymiumGrams: 150,
   },
 };
+export const INITIAL_EWASTE_ITEMS = EWASTE_ITEMS;
+export const MOCK_RECYCLERS = RECYCLERS;
