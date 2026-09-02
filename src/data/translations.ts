@@ -317,4 +317,3 @@ export const TRANSLATIONS = {
 export function getTranslation(lang: Language) {
   return TRANSLATIONS[lang] || TRANSLATIONS.en;
 }
-import { TRANSLATIONS } from '../data/translations';
